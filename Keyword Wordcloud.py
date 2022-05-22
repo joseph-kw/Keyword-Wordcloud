@@ -4,7 +4,7 @@ from wordcloud import WordCloud, ImageColorGenerator
 import matplotlib.pyplot as plt
 from gensim.summarization import keywords
 
-# Read csv file instead. cmt is most liked comment
+# Read csv file instead. cmt is the most liked comment
 cmt = "comment haha"
 
 # Text Pre-Processing
